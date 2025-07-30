@@ -112,6 +112,26 @@ const Birthday = () => {
 
         <div className="text-center z-10 max-w-lg mx-auto">
           <div className="animate-slide-in-up">
+            {/* Foto Kayla */}
+            <div className="mb-8 flex justify-center gap-4">
+              <div className="relative">
+                <img 
+                  src="/lovable-uploads/db71d189-400a-421e-ae7e-f51268765123.png" 
+                  alt="Kayla" 
+                  className="w-24 h-24 md:w-32 md:h-32 rounded-full object-cover border-4 border-birthday-pink shadow-dreamy hover:scale-105 transition-transform duration-300"
+                />
+                <div className="absolute -top-2 -right-2 text-2xl animate-bounce-gentle">🎂</div>
+              </div>
+              <div className="relative">
+                <img 
+                  src="/lovable-uploads/dc77ec46-121e-4484-86c4-d9d10ddb8a42.png" 
+                  alt="Kayla" 
+                  className="w-24 h-24 md:w-32 md:h-32 rounded-full object-cover border-4 border-birthday-purple shadow-dreamy hover:scale-105 transition-transform duration-300"
+                />
+                <div className="absolute -top-2 -right-2 text-2xl animate-sparkle">✨</div>
+              </div>
+            </div>
+            
             <h1 className="font-fredoka text-5xl md:text-7xl font-bold text-foreground mb-4">
               Selamat Ulang Tahun
             </h1>
