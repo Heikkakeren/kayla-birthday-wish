@@ -24,13 +24,17 @@ const Birthday = () => {
   
   // Pesan ulang tahun - bisa diganti sesuai keinginan
   const birthdayMessages = [
-    "Selamat ulang tahun yang ke-15, Kayla! 🎂",
-    "Kakak berharap semua impian dan cita-citamu terwujud ✨",
-    "Semoga hari-harimu selalu dipenuhi kebahagiaan dan tawa 😊",
-    "Kamu adalah adik yang sangat spesial dan berharga 💖",
-    "Terima kasih sudah menjadi bagian dari hidup kakak",
-    "Sehat selalu ya, dan jangan lupa tetap jadi anak baik! 🌟",
-    "Happy Birthday, my dear little sister! 🎉"
+    "🌸 Ucapan Ulang Tahun untuk Kayla 🌸",
+    "Selamat Ulang Tahun, Kayla! 🎉",
+    "Hari ini, dunia bertambah cerah karena gadis manis seperti kamu bertambah usia",
+    "Semoga di umur 15 ini, kamu selalu dikelilingi kebahagiaan...",
+    "keberanian untuk bermimpi, dan semangat untuk terus tumbuh jadi pribadi yang hebat ✨",
+    "Terima kasih sudah jadi sosok adik yang baik, ceria, dan selalu bikin bangga 💖",
+    "Walaupun kita bukan saudara kandung, tapi kamu tetap adik yang selalu aku doakan dan aku jaga semampuku 🤍",
+    "Never stop shining, Kayla.",
+    "Karena dunia butuh lebih banyak orang baik dan bersinar sepertimu ⭐",
+    "From your kakak yang selalu sayang dan bangga,",
+    "— M 💕"
   ];
 
   // Auto play musik ketika komponen dimuat
